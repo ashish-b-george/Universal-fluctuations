@@ -1,12 +1,12 @@
 # Universal_fluctuations
-Code accompanying paper currently in revision.
+Code accompanying paper currently in revision. Original datasets are found in the references cited in the paper.
 
 
-#### general comments
+#### general comments:
 
 Some of the python notebooks are large and it is recommended to navigate them using a table of contents (either via jupyter-lab or using nbextensions in the python notebooks)
 
-Original datasets are found in the references cited in the paper.
+
 
 ## description of code files
 
