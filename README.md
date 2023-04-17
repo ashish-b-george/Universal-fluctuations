@@ -22,3 +22,6 @@ The folder *scripts_for_remote_machine* contains a number of python scripts that
 
 
 *BCI_analysis.ipynb*, *temporal_NAICS_data.ipynb*, *microbiome_data_analysis.ipynb*, *wrangling_and_analysis_of_single_year_data.ipynb, and  *BLS_data_wrangling.ipynb*, are notebooks implementing initial analysis of individual systems separately. Note that this also includes analysis of CBP (county business patterns) employment data set which was replaced by the BLS employment data set since it had greater resolution. 
+
+
+There is a also *cities.yml* file which details my local conda environment to support reproducibility. Note that this environment also contains packages that are no longer necessary for the project.
