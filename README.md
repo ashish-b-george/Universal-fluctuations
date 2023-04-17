@@ -2,7 +2,7 @@
 Code accompanying paper currently in revision.
 
 
-## general comments
+#### general comments
 
 Some of the python notebooks are large and it is recommended to navigate them using a table of contents (either via jupyter-lab or using nbextensions in the python notebooks)
 
