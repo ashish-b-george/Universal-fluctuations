@@ -9,7 +9,7 @@ message: >-
 type: software
 authors:
   - given-names: Ashish
-    family-names: Bino George
+    family-names: B. George
     email: ashish.b.george@gmail.com
     orcid: 'https://orcid.org/0000-0002-6923-3596'
     affiliation: Broad Institute of MIT and Harvard
