@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Universal_fluctuations
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ashish
+    family-names: Bino George
+    email: ashish.b.george@gmail.com
+    orcid: 'https://orcid.org/0000-0002-6923-3596'
+    affiliation: Broad Institute of MIT and Harvard
+identifiers:
+  - type: doi
+    value: 10.1101/2022.09.14.508016
+    description: Code accompanying this paper
+repository-code: 'https://github.com/ashish-b-george/Universal_fluctuations'
+abstract: >-
+  Code accompanying the paper "Universal abundance
+  fluctuations across microbial communities, tropical
+  forests, and urban populations"
+license: CC-BY-SA-4.0
