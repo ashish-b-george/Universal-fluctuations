@@ -17,7 +17,7 @@ identifiers:
   - type: doi
     value: 10.1101/2022.09.14.508016
     description: Code accompanying this paper
-repository-code: 'https://github.com/ashish-b-george/Universal_fluctuations'
+repository-code: 'https://github.com/ashish-b-george/Universal-fluctuations'
 abstract: >-
   Code accompanying the paper "Universal abundance
   fluctuations across microbial communities, tropical
